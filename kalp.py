@@ -2,7 +2,7 @@ import turtle
 import time
 kalem = turtle.Turtle()
 
-kalem.speed(100)
+kalem.speed(10)
 kalem.hideturtle()
 def curve():
     for i in range(200):
